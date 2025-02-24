@@ -1,6 +1,6 @@
-# We collaborate and innovate.
-***We collaborate and innovate***.
-###### We collaborate and innovate.
+# We collaborate and innovate togeter.
+***We collaborate and innovate togeter***.
+###### We collaborate and innovate togeter.
 
 | First name |Last name|
 |------------|---------|
