@@ -1,2 +1,3 @@
-###### Heading 6
+# They collaborate and innovate.
+
 
