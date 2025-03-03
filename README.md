@@ -1,11 +1,6 @@
-# We collaborate and innovate togeter.
-***We collaborate and innovate togeter***.
-###### We collaborate and innovate togeter.
-
-| First name |Last name|
-|------------|---------|
-| Yihang     |Yang     |
-| jensen     |Xie      |
-| Tzu-Hsuan  |Chu      |
-
-![Alt tag](https://github.com/user-attachments/assets/32981a04-a396-4183-a449-fe7b02acf7bc)
+# Yihang 
+![Alt tag](https://github.com/user-attachments/assets/fde684e5-1deb-4737-b4c1-636228e605a0)
+# About me
+Hi, my name is yihang. I arrived in New Zealand about six months ago. I like playing mobile games with friends at home. This is my first TDG class, so I may not know much about programming.
+# Past Projects
+not yet
